@@ -1,0 +1,5 @@
+Django field that behaves as ImageField, with some extra features like:
+    - preview & deletion in admin
+
+Vlad Bokov [razum2um], 2011
+
